@@ -1,2 +1,2 @@
 # my-Todos
-App android MyTodos presentata all'esame di Programmazione di Sistemi Mobili
+Applicazione Android MyTodos sviluppata per il corso di Programmazione di Sistemi Mobili
